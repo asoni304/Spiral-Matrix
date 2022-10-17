@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\User\Desktop\projects\c#\SpiralMatrix\obj\Debug\SpiralMatrix.pdb
